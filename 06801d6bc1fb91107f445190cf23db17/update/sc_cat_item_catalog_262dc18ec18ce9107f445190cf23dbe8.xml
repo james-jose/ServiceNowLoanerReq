@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Loaner Request">aa2dc18ec18ce9107f445190cf23dbe0</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jajose</sys_created_by>
+        <sys_created_on>2022-12-29 22:50:22</sys_created_on>
+        <sys_id>262dc18ec18ce9107f445190cf23dbe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">06801d6bc1fb91107f445190cf23db17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">06801d6bc1fb91107f445190cf23db17</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_262dc18ec18ce9107f445190cf23dbe8</sys_update_name>
+        <sys_updated_by>jajose</sys_updated_by>
+        <sys_updated_on>2022-12-29 22:50:22</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

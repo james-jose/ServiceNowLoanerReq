@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f3435bcdc18829107f445190cf23db44</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number_counter">
+    <sys_number_counter action="INSERT_OR_UPDATE">
+        <number>2022</number>
+        <sys_created_by>jajose</sys_created_by>
+        <sys_created_on>2022-12-27 06:02:32</sys_created_on>
+        <sys_id>f3435bcdc18829107f445190cf23db44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jajose</sys_updated_by>
+        <sys_updated_on>2022-12-27 06:02:32</sys_updated_on>
+        <table display_value="" name="x_cdltd_loaner_req_loaner_request">x_cdltd_loaner_req_loaner_request</table>
+    </sys_number_counter>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jajose</sys_created_by>
+        <sys_created_on>2022-12-30 18:49:21</sys_created_on>
+        <sys_id>319f1ddec18c2d107f445190cf23dbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2,022</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">06801d6bc1fb91107f445190cf23db17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">06801d6bc1fb91107f445190cf23db17</sys_scope>
+        <sys_update_name>sys_metadata_link_319f1ddec18c2d107f445190cf23dbb1</sys_update_name>
+        <sys_updated_by>jajose</sys_updated_by>
+        <sys_updated_on>2022-12-30 18:49:21</sys_updated_on>
+        <tablename>sys_number_counter</tablename>
+    </sys_metadata_link>
+</record_update>
