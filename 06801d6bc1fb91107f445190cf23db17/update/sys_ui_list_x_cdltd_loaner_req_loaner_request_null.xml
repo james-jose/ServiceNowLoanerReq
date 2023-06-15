@@ -133,6 +133,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jajose</sys_created_by>
             <sys_created_on>2022-12-28 02:48:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a8603f55c1c869107f445190cf23db2c</sys_id>
@@ -140,6 +141,7 @@
             <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
             <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">06801d6bc1fb91107f445190cf23db17</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Loaner Request">06801d6bc1fb91107f445190cf23db17</sys_scope>
             <sys_update_name>sys_ui_list_x_cdltd_loaner_req_loaner_request_null</sys_update_name>
             <sys_updated_by>jajose</sys_updated_by>

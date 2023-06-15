@@ -6,11 +6,13 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>jajose</sys_created_by>
         <sys_created_on>2022-12-29 19:15:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>510c9c8ec1c8e9107f445190cf23db63</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ScriptableRESTMessageClient.setBasicAuth</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">06801d6bc1fb91107f445190cf23db17</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Loaner Request">06801d6bc1fb91107f445190cf23db17</sys_scope>
         <sys_update_name>sys_scope_privilege_510c9c8ec1c8e9107f445190cf23db63</sys_update_name>
         <sys_updated_by>jajose</sys_updated_by>

@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="Loaner Request">f0b05f0dc18829107f445190cf23db89</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter/>
         <hint/>
@@ -18,9 +19,12 @@
         <query>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category=Loaner Request</query>
         <report/>
         <roles>x_cdltd_loaner_req.admin</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>jajose</sys_created_by>
         <sys_created_on>2022-12-28 23:32:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7e4c84b1c10ca9107f445190cf23db7a</sys_id>
@@ -29,6 +33,7 @@
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">06801d6bc1fb91107f445190cf23db17</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Loaner Request">06801d6bc1fb91107f445190cf23db17</sys_scope>
         <sys_update_name>sys_app_module_7e4c84b1c10ca9107f445190cf23db7a</sys_update_name>
         <sys_updated_by>jajose</sys_updated_by>
