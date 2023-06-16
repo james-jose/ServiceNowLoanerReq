@@ -3,70 +3,84 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pick_up_reminder</element>
             <position>0</position>
-            <sys_created_by>jajose</sys_created_by>
-            <sys_created_on>2022-12-29 03:27:22</sys_created_on>
-            <sys_id>2ef28175c1cca9107f445190cf23db58</sys_id>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-15 23:21:32</sys_created_on>
+            <sys_id>896f928c1bef2510fa8c1f4d2b4bcb64</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8ef24175c1cca9107f445190cf23dbb4</sys_ui_section>
-            <sys_updated_by>jajose</sys_updated_by>
-            <sys_updated_on>2022-12-29 03:27:22</sys_updated_on>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-15 23:21:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>last_overdue_reminder</element>
             <position>1</position>
-            <sys_created_by>jajose</sys_created_by>
-            <sys_created_on>2022-12-29 03:27:22</sys_created_on>
-            <sys_id>aef28175c1cca9107f445190cf23db58</sys_id>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-15 23:21:32</sys_created_on>
+            <sys_id>016f928c1bef2510fa8c1f4d2b4bcb65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8ef24175c1cca9107f445190cf23dbb4</sys_ui_section>
-            <sys_updated_by>jajose</sys_updated_by>
-            <sys_updated_on>2022-12-29 03:27:22</sys_updated_on>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-15 23:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>2</position>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-15 23:21:32</sys_created_on>
+            <sys_id>816f928c1bef2510fa8c1f4d2b4bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8ef24175c1cca9107f445190cf23dbb4</sys_ui_section>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-15 23:21:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
-            <sys_created_by>jajose</sys_created_by>
-            <sys_created_on>2022-12-29 03:27:22</sys_created_on>
-            <sys_id>22f28175c1cca9107f445190cf23db59</sys_id>
+            <position>3</position>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-15 23:21:32</sys_created_on>
+            <sys_id>056f928c1bef2510fa8c1f4d2b4bcb65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8ef24175c1cca9107f445190cf23dbb4</sys_ui_section>
-            <sys_updated_by>jajose</sys_updated_by>
-            <sys_updated_on>2022-12-29 03:27:22</sys_updated_on>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-15 23:21:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>return_reminder</element>
-            <position>3</position>
-            <sys_created_by>jajose</sys_created_by>
-            <sys_created_on>2022-12-29 03:27:22</sys_created_on>
-            <sys_id>a2f28175c1cca9107f445190cf23db59</sys_id>
+            <position>4</position>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-15 23:21:32</sys_created_on>
+            <sys_id>856f928c1bef2510fa8c1f4d2b4bcb65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8ef24175c1cca9107f445190cf23dbb4</sys_ui_section>
-            <sys_updated_by>jajose</sys_updated_by>
-            <sys_updated_on>2022-12-29 03:27:22</sys_updated_on>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-15 23:21:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>overdue_count</element>
-            <position>4</position>
-            <sys_created_by>jajose</sys_created_by>
-            <sys_created_on>2022-12-29 03:27:22</sys_created_on>
-            <sys_id>26f28175c1cca9107f445190cf23db59</sys_id>
+            <position>5</position>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-15 23:21:32</sys_created_on>
+            <sys_id>096f928c1bef2510fa8c1f4d2b4bcb65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8ef24175c1cca9107f445190cf23dbb4</sys_ui_section>
-            <sys_updated_by>jajose</sys_updated_by>
-            <sys_updated_on>2022-12-29 03:27:22</sys_updated_on>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-15 23:21:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
