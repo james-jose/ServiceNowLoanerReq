@@ -210,6 +210,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sourcecontroltest</element>
+            <position>15</position>
+            <sys_created_by>james.jose</sys_created_by>
+            <sys_created_on>2023-06-19 17:28:28</sys_created_on>
+            <sys_id>d8f4f59d1b2b691018a199c01a4bcb2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">3b4397cdc18829107f445190cf23db29</sys_ui_section>
+            <sys_updated_by>james.jose</sys_updated_by>
+            <sys_updated_on>2023-06-19 17:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
